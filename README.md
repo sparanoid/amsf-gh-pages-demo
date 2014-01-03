@@ -26,4 +26,4 @@ Following files, directories and their contents are copyright sparanoid and lice
 
 All other files and directories are licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) unless explicitly stated.
 
-Copyright (c) 2005-2013 sparanoid. Rights reserved as indicated above.
+Copyright (c) sparanoid. Rights reserved as indicated above.
